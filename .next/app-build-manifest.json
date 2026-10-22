@@ -14,6 +14,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/library/page.js"
+    ],
+    "/api/render/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/render/route.js"
     ]
   }
 }
